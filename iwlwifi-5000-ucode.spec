@@ -1,7 +1,7 @@
 Summary:	Intel PRO/Wireless 5000AGN microcode
 Name:		iwlwifi-5000-ucode
 Version:	8.83.5.1
-Release:	3
+Release:	4
 Source0:	http://www.intellinuxwireless.org/iwlwifi/downloads/iwlwifi-5000-ucode-%{version}.tgz
 Source1:	http://www.intellinuxwireless.org/iwlwifi/downloads/iwlwifi-5000-ucode-8.24.2.12.tgz
 Source2:	http://www.intellinuxwireless.org/iwlwifi/downloads/iwlwifi-5000-ucode-5.4.A.11.tar.gz
