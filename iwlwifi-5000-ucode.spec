@@ -7,7 +7,7 @@ Source1:	http://www.intellinuxwireless.org/iwlwifi/downloads/iwlwifi-5000-ucode-
 Source2:	http://www.intellinuxwireless.org/iwlwifi/downloads/iwlwifi-5000-ucode-5.4.A.11.tar.gz
 License:	Proprietary
 Group:		System/Kernel and hardware
-Url:		http://intellinuxwireless.org/
+Url:		https://intellinuxwireless.org/
 BuildArch:	noarch
 
 %description
